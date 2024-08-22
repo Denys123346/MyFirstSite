@@ -1,0 +1,14 @@
+h2{
+    color: blue;
+    font-size: 50px;
+    padding: 25px;
+    border: 3px double green;
+}
+p{
+    color: red;
+    font-size: 25px;
+}
+body{
+    background-color: #555;
+    margin: 0 auto;
+}
